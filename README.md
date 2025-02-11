@@ -32,3 +32,23 @@ Modeling: scikit-learn (baseline models like Logistic Regression, Random Forest)
 Evaluation: AUC (Area Under the ROC Curve) for multi-label classification
 <br>
 Submission: Using Kaggle API for downloading data and submitting predictions
+<br>
+<br>
+------Future Improvements-------
+<br>
+Hyperparameter Tuning:
+<br>
+Implement advanced hyperparameter tuning strategies (e.g., Grid Search, Random Search) for model optimization.
+<br>
+Ensemble Methods:
+<br>
+Experiment with ensemble techniques to blend predictions from multiple models.
+<br>
+Deep Learning Approaches:
+<br>
+Explore more advanced NLP models (e.g., LSTM, Transformer-based models) to further improve prediction performance.
+<br>
+<br>
+Contribution
+<br>
+Feel free to open issues or submit pull requests if you have suggestions or improvements. Contributions are welcome!

@@ -1,16 +1,16 @@
 # Comments-Classification-01
-
+<br>
 This repository contains code, notebooks, and documentation for my participation in the Kaggle Comment Classification Competition. The goal of the competition is to predict the probabilities for each text sample belonging to multiple categories—Complaint, Demands, Praise, and Questions—using machine learning and natural language processing techniques.
-
+<br>
 ----Project Overview----
 Objective:
 Build a multi-label classification model to predict the likelihood that a given comment falls into one or more of the specified categories.
-
+<br>
 -----Dataset:-----
 train.csv: Contains text samples with binary labels indicating whether each sample belongs to a specific category.
 test.csv: Contains text samples for which the predictions need to be generated.
 sample_submission.csv: Provides the required format for your submission, including the unique identifier and the predicted probabilities for each category.
-
+<br>
 -----Techniques and Libraries:------
 Data Exploration & Preprocessing: Pandas, NumPy
 Text Processing: Regular expressions, NLTK

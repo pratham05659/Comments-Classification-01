@@ -1,5 +1,4 @@
-/*
- * Copyright [Year] [Your Name or Company]
+ * Copyright [2025] [Pratham Singasane (Ex INTERN - GROK LEARNING PVT LTD)]
  *  
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -12,7 +11,7 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- */
+ * 
 # Comments-Classification-01  
 
 This repository contains code, notebooks, and documentation for my participation in the **Kaggle Comment Classification Competition**.  
